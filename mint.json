@@ -221,9 +221,9 @@
                                         "tools/toolkits/web_scrape/jina_reader",
                                         "tools/toolkits/web_scrape/newspaper",
                                         "tools/toolkits/web_scrape/newspaper4k",
+                                        "tools/toolkits/web_scrape/oxylabs",
                                         "tools/toolkits/web_scrape/spider",
-                                        "tools/toolkits/web_scrape/website",
-                                        "tools/toolkits/web_scrape/oxylabs"
+                                        "tools/toolkits/web_scrape/website"
                                     ]
                                 },
                                 {
@@ -518,6 +518,7 @@
                         "examples/agents/youtube-agent",
                         "examples/agents/research-agent",
                         "examples/agents/research-agent-exa",
+                        "examples/agents/oxylabs-agent",
                         "examples/agents/teaching-assistant",
                         "examples/agents/recipe-creator",
                         "examples/agents/movie-recommender",
