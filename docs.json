@@ -173,7 +173,8 @@
                           "tools/toolkits/web_scrape/newspaper4k",
                           "tools/toolkits/web_scrape/spider",
                           "tools/toolkits/web_scrape/website",
-                          "tools/toolkits/web_scrape/scrapegraph"
+                          "tools/toolkits/web_scrape/scrapegraph",
+                          "tools/toolkits/web_scrape/oxylabs"
                         ]
                       },
                       {
@@ -274,8 +275,10 @@
                   },
                   "tools/custom-toolkits",
                   "tools/selecting-tools",
+                  "tools/attaching-tools",
                   "tools/async-tools",
-                  "tools/caching"
+                  "tools/caching",
+                  "tools/tool_call_limit"
                 ]
               },
               {
@@ -992,7 +995,8 @@
                       "examples/concepts/tools/web_scrape/newspaper4k",
                       "examples/concepts/tools/web_scrape/website",
                       "examples/concepts/tools/web_scrape/spider",
-                      "examples/concepts/tools/web_scrape/firecrawl"
+                      "examples/concepts/tools/web_scrape/firecrawl",
+                      "examples/concepts/tools/web_scrape/oxylabs"
                     ]
                   },
                   {
